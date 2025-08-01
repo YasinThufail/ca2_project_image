@@ -8,3 +8,6 @@ source: self-made via Alight Motion
 
 basic_border2.webp
 source: self-made via Alight Motion
+
+zebra.webp (uncommon border1)
+source: self-made via Alight Motion
