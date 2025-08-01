@@ -12,5 +12,8 @@ source: self-made via Alight Motion
 zebra.webp (uncommon border1)
 source: self-made via Alight Motion
 
-como.webp (rare border1)
+camo.webp (rare border1)
+source: self-made via Alight Motion
+
+wallOfFire.webp (mysticalBorder1)
 source: self-made via Alight Motion
